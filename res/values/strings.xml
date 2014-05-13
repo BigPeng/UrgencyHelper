@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">紧急求助</string>
+    <string name="action_settings">帮助</string>
+    <string name="declaration">本软件是一个紧急求助软件,在您的允许下,可以给您指定的人发送求救短信,同时发送坐标位置给您指定的人，因此需要获取您的位置信息。 本软件不会收集您的联系人和位置数据，仅把信息发送给您指定的朋友，由于定位信息使用的是百度的服务，这里不能保证百度的SDK是否收集用户的个人数据。选择同意将默认您同意一下条款:\n1、允许本软件发送短信给您指定的用户；\n2、允许本软件获取您的位置信息;\n3、本软件不提供可靠性保证，仅做个人试用;\n\n不同意以上内容请退出！</string>
+    <string name="hello_world">\n\n这是一款求救软件,在锁屏状态下,几秒内连续按多次电源键,即可发送短信给指定的朋友.连续按多次电源键后，手机会震动两次，第一次表示触发预警，将发送短信；第二次震动表示对方已经收到短信。简单实用,为您的平安多一道护航。\n\n如果觉得有用，不妨推荐给您的朋友，如有建议，请发送意见到jiqunpeng@gmail.com。</string>
+    <string name="setting_hint">提示:\n触发次数是屏幕开关的次数，触发时间是连续按到触发次数的最长时间(单位秒)。如触发次数为8，触发时间为10，表示10秒内连续按电源键4次,即屏幕开关8次,触发警报.\n密码是打开本软件的密码，可防止其他用户修改您的指定联系人</string>
+    <string name="passwd_hine">输入打开本软件的密码</string>
+    <string name="use_passwd">启用密码保护</string>
+    <string name="back">返回</string>
+    <string name="save">保存</string>
+    <string name="triggerTime">触发时间</string>
+    <string name="triggerTimes">触发次数</string>
+    <string name="contact_name">联系人姓名</string>
+    <string name="phone">电话</string>
+    <string name="send_msg">发送内容</string>
+    <string name="save_contact">保存联系人</string>
+    <string name="add_contact_hint">未设置紧急联系人，按菜单键选择添加紧急联系人</string>
+
+</resources>
